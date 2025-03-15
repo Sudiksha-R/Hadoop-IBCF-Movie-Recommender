@@ -74,6 +74,8 @@ Reducer:
 Multiplies a cell of the co-occurrence matrix with the corresponding cell of the rating matrix
 Reads the average rating for each user: `HashMap<userId,>
 
+Metrics and Visualizations:
+In addition to the MapReduce workflows, I have computed metrics (such as RMSE) and to generate visualizations that provide insights into the data distribution and relationships.
 
 
 
